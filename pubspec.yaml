@@ -32,10 +32,15 @@ dependencies:
   flutter:
     sdk: flutter
   get: ^4.6.5
-  firebase_core: ^2.1.1
-  firebase_auth: ^4.1.1
-  cloud_firestore: ^4.0.4
-  firebase_storage: ^11.0.4
+  firebase_core: ^2.3.0
+  firebase_auth: ^4.1.5
+  cloud_firestore: ^4.1.0
+  firebase_storage: ^11.0.6
+  google_ml_kit: ^0.13.0
+  qr_code_scanner: ^1.0.1
+  image_picker: ^0.8.6
+  http: ^0.13.5
+  file: ^6.1.4
 
 
 
